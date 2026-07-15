@@ -2,7 +2,7 @@
 
 **I'm a Computer Science student based in Germany with a passion for software development.**
 
-I'm currently expanding my skills in **Full-stack Development** while building personal projects and exploring new technologies.
+I'm currently expanding my skills in **Full-Stack Development** while building personal projects and exploring new technologies.
 
 
 
