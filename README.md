@@ -25,21 +25,6 @@ I'm currently expanding my skills in **Full-stack Development** while building p
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🎨 Interests
-
-Besides programming, I like drawing, reading, learning languages and staying active through sports.
-
-## 🌍 Languages
-
-Fluent:
-- 🇩🇪 German
-- 🇬🇧 English
-- 🇹🇷 Turkish
-- 🇧🇬 Bulgarian
-
-Currently learning:
-- 🇷🇺 Russian
-- 🇸🇦 Arabic
 
 ## 📌 Current Focus
 
@@ -54,6 +39,25 @@ Currently learning:
 - 👾 Pacman Clone
 - 🌿 Fractal Visualizer
 - 💼 Full-Stack Project (in progress)
+
+## 🎨 Outside of programming I enjoy:
+
+- 🎨 Digital Art & Design
+- 📚 Philosophy & Psychology
+- 🌍 Language Learning
+- 💪 Fitness
+
+## 🌍 Languages
+
+Fluent:
+- 🇩🇪 German
+- 🇬🇧 English
+- 🇹🇷 Turkish
+- 🇧🇬 Bulgarian
+
+Currently learning:
+- 🇷🇺 Russian
+- 🇸🇦 Arabic
 
 
 ## 📊 GitHub Stats:
