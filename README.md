@@ -43,7 +43,7 @@ I'm currently expanding my skills in **Full-Stack Development** while building p
 ## 🎨 Outside of programming I enjoy:
 
 - 🎨 Digital Art & Design
-- 📚 Philosophy & Psychology
+- 📚 Reading Books
 - 🌍 Language Learning
 - 💪 Fitness
 
