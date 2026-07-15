@@ -58,11 +58,6 @@ Currently learning:
 - 🌱 Learning Full-Stack Development
 - 🐍 Learning Python
 - 🐧 Daily driving Arch Linux
-- 🎨 Building applications with a focus on clean UI/UX## 📌 Current Focus
-
-- 🌱 Learning Full-Stack Development
-- 🐍 Learning Python
-- 🐧 Daily driving Arch Linux
 
 ## 🚀 Featured Projects
 
